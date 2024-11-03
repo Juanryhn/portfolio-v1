@@ -1,0 +1,15 @@
+.iconGithub{
+    width: 24px;
+    height: 24px;
+    fill: var(--tertiary-color);
+}
+.iconLinkedin{
+    width: 24px;
+    height: 24px;
+}
+.iconLinkedin path{
+    fill: var(--background);
+}
+.iconLinkedin rect{
+    fill: var(--tertiary-color);
+}
